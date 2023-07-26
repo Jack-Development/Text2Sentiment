@@ -1,3 +1,9 @@
+&nbsp;
+<div id="header" align="center">
+  <img src="https://github.com/Jack-Development/Text2Sentiment/blob/main/Resources/logo.png" width="400"/>
+</div>
+&nbsp;
+
 # Text2Sentiment
 
 Text2Sentiment is a flexible, reusable framework for building Text Classification models. This repository is specifically designed for PyTorch and can be applied to numerous different datasets.
