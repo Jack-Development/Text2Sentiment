@@ -9,7 +9,7 @@ DATASET_NAME = "IMDB"
 def load(filename, filetype=".pth"):
 	path = os.path.join(root, DATASET_NAME, (filename + filetype))
 	print(f"Loading {path}...")
-	result = torch.load(path)
+	result = torch.load(path, map_location=device)
 	print(f"Loaded {filename}.")
 	return result
 
