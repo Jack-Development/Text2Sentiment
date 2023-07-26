@@ -4,7 +4,7 @@
 </div>
 &nbsp;
 
-# Text2Sentiment
+# About
 
 Text2Sentiment is a flexible, reusable framework for building Text Classification models. This repository is specifically designed for PyTorch and can be applied to numerous different datasets.
 
